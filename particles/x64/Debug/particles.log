@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(155,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(158,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(214,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(216,36): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(218,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(220,36): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(222,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(224,36): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(226,20): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(228,36): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(368,16): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\cluxn\source\repos\particles\particles\main.cpp(428,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  particles.vcxproj -> C:\Users\cluxn\source\repos\particles\x64\Debug\particles.exe
